@@ -17,7 +17,6 @@ The project is built on the base of gRPC framework, use PostgreSQL and include g
 | Program                | Version |
 |------------------------|---------|
 | Docker version         | 19.03.5 |
-|------------------------|---------|
 | docker-compose version | 1.25.3  |
 
 ## Pre-usage
