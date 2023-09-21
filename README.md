@@ -14,11 +14,11 @@ The project is built on the base of gRPC framework, use PostgreSQL and include g
 
 ## Requirements:
 
-| Program                | Version |
-|------------------------|---------|
-| Docker version         | 19.03.5 |
-| docker-compose version | 1.25.3  |
-
+| Program                    | Version |
+|----------------------------|---------|
+| Docker version             | 19.03.5 |
+| docker-compose version     | 1.25.3  |
+| psql (PostgreSQL) version  | 11.12   |
 ## Pre-usage
 
 1. [Install docker](https://docs.docker.com/engine/install/)
